@@ -1,0 +1,123 @@
+{
+  "products" :[{
+  "id": 1,
+  "judul": "Foam Cup 6 Oz",
+  "harga": "$0.08"
+}, {
+  "id": 2,
+  "judul": "Champagne - Brights, Dry",
+  "harga": "$6.90"
+}, {
+  "id": 3,
+  "judul": "Rabbit - Frozen",
+  "harga": "$2.60"
+}, {
+  "id": 4,
+  "judul": "Pepper - Chillies, Crushed",
+  "harga": "$3.80"
+}, {
+  "id": 5,
+  "judul": "Apple - Delicious, Golden",
+  "harga": "$2.47"
+}, {
+  "id": 6,
+  "judul": "Lamb - Rack",
+  "harga": "$4.39"
+}, {
+  "id": 7,
+  "judul": "Ecolab - Solid Fusion",
+  "harga": "$1.96"
+}, {
+  "id": 8,
+  "judul": "Cup - Paper 10oz 92959",
+  "harga": "$2.31"
+}, {
+  "id": 9,
+  "judul": "Red Cod Fillets - 225g",
+  "harga": "$5.50"
+}, {
+  "id": 10,
+  "judul": "Eggwhite Frozen",
+  "harga": "$1.79"
+}, {
+  "id": 11,
+  "judul": "Wine - Kwv Chenin Blanc South",
+  "harga": "$0.74"
+}, {
+  "id": 12,
+  "judul": "Juice - Orange 1.89l",
+  "harga": "$7.86"
+}, {
+  "id": 13,
+  "judul": "Oil - Coconut",
+  "harga": "$5.41"
+}, {
+  "id": 14,
+  "judul": "Capers - Pickled",
+  "harga": "$0.97"
+}, {
+  "id": 15,
+  "judul": "Halibut - Whole, Fresh",
+  "harga": "$9.71"
+}, {
+  "id": 16,
+  "judul": "Anchovy In Oil",
+  "harga": "$4.78"
+}, {
+  "id": 17,
+  "judul": "Lid Coffeecup 12oz D9542b",
+  "harga": "$4.63"
+}, {
+  "id": 18,
+  "judul": "Appetizer - Mini Egg Roll, Shrimp",
+  "harga": "$7.52"
+}, {
+  "id": 19,
+  "judul": "Veal - Slab Bacon",
+  "harga": "$0.29"
+}, {
+  "id": 20,
+  "judul": "Five Alive Citrus",
+  "harga": "$7.80"
+}, {
+  "id": 21,
+  "judul": "Beer - Corona",
+  "harga": "$3.88"
+}, {
+  "id": 22,
+  "judul": "Shrimp - 16/20, Iqf, Shell On",
+  "harga": "$5.39"
+}, {
+  "id": 23,
+  "judul": "Potatoes - Pei 10 Oz",
+  "harga": "$7.77"
+}, {
+  "id": 24,
+  "judul": "Veal - Inside, Choice",
+  "harga": "$6.13"
+}, {
+  "id": 25,
+  "judul": "Napkin White",
+  "harga": "$2.56"
+}, {
+  "id": 26,
+  "judul": "Rum - Spiced, Captain Morgan",
+  "harga": "$7.18"
+}, {
+  "id": 27,
+  "judul": "Crab - Meat",
+  "harga": "$4.19"
+}, {
+  "id": 28,
+  "judul": "Table Cloth 81x81 Colour",
+  "harga": "$1.06"
+}, {
+  "id": 29,
+  "judul": "Energy Drink - Franks Original",
+  "harga": "$1.98"
+}, {
+  "id": 30,
+  "judul": "Muffin - Banana Nut Individual",
+  "harga": "$4.57"
+}]
+ }
